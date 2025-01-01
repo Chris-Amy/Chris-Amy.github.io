@@ -7,3 +7,4 @@ draft = false
 +++
 
 ![DSC02497.JPG](/img/paid/DSC02497.JPG)
+![DSC02498.JPG](/img/paid/DSC02498.JPG)
